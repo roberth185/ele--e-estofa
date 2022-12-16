@@ -29,9 +29,11 @@ Table of Contents
 .contact-form textarea::placeholder {
 	color: rgb(0, 0, 0);
 }
+/*
 .navigation a {
 	color: #b6b1b1;
 }
+*/
 
 .contact-form input::placeholder,
 .contact-form textarea::placeholder{
@@ -112,6 +114,14 @@ Table of Contents
 .contact-us .block-1 .content,
 .entries-list .entry-category {
 	color: #ffffff;
+}
+
+.index-li > a{
+	color: red;
+}
+
+.about_li > a{
+	color: darkorange;
 }
 
 /*-----------------------------------------------------

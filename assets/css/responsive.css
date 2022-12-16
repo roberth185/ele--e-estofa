@@ -22,14 +22,6 @@ Table of Contents
 
 /* Start @media(max-width:1920px) */
 
-.index-li > a{
-	color: red;
-}
-
-.about_li > a{
-	color: darkorange;
-}
-
 @media(max-width: 1920px) {
 
 	.entry {
